@@ -1,5 +1,5 @@
 ###  Hi, I'm Frank. I am currently working on some web development projects. 
-#### https://www.frankljin.github.io
+#### https://frankljin.github.io
 
 <!--
 **frankljin/frankljin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

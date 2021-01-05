@@ -1,4 +1,4 @@
-###  👋
+###  Hi, I'm Frank. I am currently working on some web development projects. 
 
 <!--
 **frankljin/frankljin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

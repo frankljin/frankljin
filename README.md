@@ -1,4 +1,4 @@
-###  Hi, I'm Frank. I am currently working on some web development projects. 
+###  Hi, I'm Frank. I am a CS student at the University of Waterloo
 #### https://frankljin.github.io
 
 <!--

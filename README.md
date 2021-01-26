@@ -1,6 +1,6 @@
 ###  Hi, I'm Frank. I am a CS student at the University of Waterloo
-#### https://frankljin.github.io
-
+#### Portfolio: https://frankljin.github.io
+#### Notes/Problems: https://frankljin.github.io/School
 <!--
 **frankljin/frankljin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
